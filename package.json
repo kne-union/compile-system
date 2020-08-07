@@ -12,7 +12,7 @@
   ],
   "main": "index.js",
   "scripts": {
-    "example": "cd exmaple&&npm i&&npm start",
+    "example": "cd example&&npm i&&npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "linzp",
